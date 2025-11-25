@@ -1,0 +1,23 @@
+{
+  "name": "mi-primer-proyecto",
+  "version": "1.0.0",
+  "description": "== David ==",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddiazgomez370-star/mi-primer-proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviddiazgomez370-star/mi-primer-proyecto/issues"
+  },
+  "homepage": "https://github.com/daviddiazgomez370-star/mi-primer-proyecto#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
